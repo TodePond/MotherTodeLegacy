@@ -1,3 +1,5 @@
+# This is a backup of MotherTode before I started rewriting it on the 17th August 2022
+
 <img align="right" height="100" src="http://todepond.com/IMG/MotherTode@0.25x.png">
 
 # MotherTode
